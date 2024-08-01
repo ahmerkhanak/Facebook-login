@@ -1,0 +1,134 @@
+body{
+    background-color: #f2f4f7;
+}
+.first{
+    display: flex;
+    justify-content: center;
+    width: 100%;;
+    margin: auto;
+}
+
+.imglogo{
+    
+    width: 320px;
+    height: 106px;
+}
+.logodiv{
+    padding-top: 0;
+
+    margin-top: 200px;
+    width: 580px;
+}
+.loginform{
+    width: 396px;
+    border-radius: 8px;
+    margin: 120px 0 0 0;
+    display: flex;
+    
+    justify-content: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    
+}
+
+h2{
+    margin-left: 30px;
+    margin-top: 0px;
+    display: flex;
+    font-family: sans-serif;
+    font-weight: lighter;
+    color: #1c1e21;
+
+}
+form{
+    width: 396px;
+    /* height: 313px; */
+    padding-top: 10px;
+    padding-bottom: 24px;
+    background-color: white;
+    
+    
+}
+.emailfield{
+    padding: 14px 16px;
+    margin-bottom: 10px;
+    width: 326px;
+    font-size: 17px;
+}
+.loginbtn{
+    background-color: #0866ff;
+    color: white;
+    margin-top: -30px;
+    margin-left: 30px;
+    padding: 12px 140px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+.forgot{
+    border: none;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 110px;
+    color: #0866ff;
+}
+.account{
+    margin-top: 10px;
+    margin-left: 90px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px ;
+    padding: 10px 20px;
+    color: white;
+    background-color: #42b72a;
+    border: none;
+}
+
+p{
+    margin-left: 600px;
+    text-align: center;
+}
+span{
+    font-style: normal;
+    font-family: sans-serif;
+    
+}
+.tobold{
+    
+    font-weight: bold;
+}
+footer{
+    background-color: white;
+    margin: 0 0 0 0 ;
+    margin-top: 100px;
+}
+ul{
+    
+    list-style: none;
+    display: flex;
+    margin-left: 80px;
+}
+li{
+    margin-top: 10px;
+    font-size: 13px;
+    display: inline;
+    margin-right: 20px;
+}
+.plusbtn{
+    border: 1px solid black;
+    padding: 1px 4px;
+}
+
+.footerend{
+    word-spacing: 10px;
+    line-height: 20px;
+    font-size: 13px;
+    width: 600px;
+    display: flex;
+    margin-left: 100px;
+}
+
+.meta{
+    font-size: 12px;
+    margin-left: -1000px;
+}
